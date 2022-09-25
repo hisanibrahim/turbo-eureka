@@ -1,0 +1,15 @@
+{
+  "name": "turbo-eureka",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/hisanibrahim/turbo-eureka.git",
+  "author": "Hisan Ibrahim <hisanibrahim@gmail.com>",
+  "scripts": {
+    "server": "node server"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
